@@ -1,3 +1,4 @@
+
 #include "MajorMinorColors.h"
 
 namespace TelCoColorCoder {
