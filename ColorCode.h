@@ -1,3 +1,4 @@
+
 #ifndef COLORCODE_H
 #define COLORCODE_H
 
