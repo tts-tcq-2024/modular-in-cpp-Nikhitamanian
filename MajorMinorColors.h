@@ -1,3 +1,4 @@
+
 #ifndef MAJORMINORCOLORS_H
 #define MAJORMINORCOLORS_H
 
